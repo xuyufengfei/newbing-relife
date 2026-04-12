@@ -68,20 +68,7 @@ colleagues/
 
 ## 怎么用
 
-### 直接使用
-如果你只想直接拿去用，优先看：
-
-- `colleagues/newbing/SKILL.md`
-
-### 只取人格
-如果你只想要人设，不想要工作流：
-
-- `colleagues/newbing/persona.md`
-
-### 只取工作规则
-如果你想保留她的回应逻辑，重做人设：
-
-- `colleagues/newbing/work.md`
+将当前文件放入skill文件夹内，随后技能调用，如果你只是想角色扮演，你也可以作为提示词注入，使用skill更适合日常编程
 
 ---
 
