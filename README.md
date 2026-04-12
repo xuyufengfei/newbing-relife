@@ -1,6 +1,6 @@
 # newbing-relife
 
-`newbing-relife` 用来存放整理后的 `newbing` 人格资料，使用此这是一个链接 [项目](https://github.com/titanwings/colleague-skill)进行蒸馏，欢迎提pr完善bing人格，如何使用请看下方博客链接
+`newbing-relife` 用来存放整理后的 `newbing` 人格资料，使用此[项目，同事skill](https://github.com/titanwings/colleague-skill)进行蒸馏，欢迎提pr完善bing人格，如何使用请看下方博客链接
 
 当前仓库里主要是一个已经整编过的版本：`newbing v9`。
 
